@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik Sharma 😃</h1>
-<h4 align="center">I'm a second-year student at Guru Gobind Singh Indraprastha University in New Delhi, pursuing a Bachelor of Technology degree in Artificial Intelligence & Data Science.
+<h4 align="center">I'm a Final student at Guru Gobind Singh Indraprastha University in New Delhi, pursuing a Bachelor of Technology degree in Artificial Intelligence & Data Science.
   
 My passion lies in working with data📊, programming in Python🐍, and contributing to open source projects :octocat:. 
 

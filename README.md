@@ -9,7 +9,7 @@ I strongly believe that data is more than just numbers; it tells compelling stor
 
 I actively volunteer to support the education of underrepresented and underprivileged individuals.
 
-I strongly believe in the transformative power of education.
+I strongly believe in the transformative power of education with code and snippets.
 
 I'm always eager to engage in conversations about Artificial Intelligence, Data Science, Machine Learning, and Data Analytics. 
 

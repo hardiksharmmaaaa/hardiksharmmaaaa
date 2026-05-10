@@ -43,7 +43,7 @@ personal:
 education:
   university: "GGSIPU, New Delhi"
   degree:     "B.Tech — AI & Data Science"
-  status:     "Final Year 🎓"
+  status:     "Degree Completed !!  🎓"
 
 currently:
   learning:   ["LLMs", "MLOps", "System Design"]

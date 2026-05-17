@@ -12,6 +12,16 @@
 
 <br/>
 
+<!-- WakaTime Coding Stats -->
+## ⏳ &nbsp; `wakatime --stats-this-week`
+<div align="center">
+
+### 💻 Coding Activity This Week
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=FFFFFF&langs_count=10&layout=compact)
+
+</div>
+
 <!-- Badges row -->
 <div align="center">
 

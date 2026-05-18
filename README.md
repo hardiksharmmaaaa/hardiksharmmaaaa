@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hardik%20Sharma&fontSize=70&fontColor=fff&animation=twinkling&stroke=7B2FBE&strokeWidth=2&fontAlignY=65" width="100%"/>
 </div>
-
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">

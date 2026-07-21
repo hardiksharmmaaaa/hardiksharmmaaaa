@@ -57,3 +57,13 @@ LinkedIn: Hardik Sharma
 Kaggle: hardiksharmmaaaa
 Instagram: @hardiksharmmaaaa
 Email: hardiksharma007@gmail.com
+
+⚡ GitHub Actions Badges & Workflow Vibes
+<img src="https://github.com/hardiksharmmaaaa/hardiksharmmaaaa/actions/workflows/ci.yml/badge.svg" alt="CI">
+<img src="https://github.com/hardiksharmmaaaa/hardiksharmmaaaa/actions/workflows/deploy.yml/badge.svg" alt="Deploy">
+
+Pro Tip: I've got workflows running in .github/workflows/ — auto-snake, stats, and more madness.
+
+⭐️ Architecting intelligence, engineering the future. ⚡
+
+Made with ❤️, Coffee, and Too Much Compute

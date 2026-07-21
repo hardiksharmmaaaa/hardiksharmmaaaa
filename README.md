@@ -47,10 +47,14 @@ mcp-servers	JS (fork)	Model Context Protocol experiments
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardiksharmmaaaa&#x26;theme=radical&#x26;hide_border=true" alt="Streak">
 
-🐍 Watch the Snake Devour My Contributions (Contribution Snake)
-<img src="https://github.com/hardiksharmmaaaa/hardiksharmmaaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my commits">
+### 🐍 Watch the snake eat my contributions
 
-Add this to .github/workflows/snake.yml for live updates!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardiksharmmaaaa/hardiksharmmaaaa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardiksharmmaaaa/hardiksharmmaaaa/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/hardiksharmmaaaa/hardiksharmmaaaa/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 📫 Let's Connect & Collab
 LinkedIn: Hardik Sharma

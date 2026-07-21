@@ -40,7 +40,6 @@ CalMate	Python	Calorie? Mate, I got you
 GuruGPT	JavaScript	Your personal AI guru
 Maya.ai	Voice AI	Hinglish voice magic
 mcp-servers	JS (fork)	Model Context Protocol experiments
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksharmmaaaa&#x26;layout=compact&#x26;theme=radical&#x26;hide_border=true">
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardiksharmmaaaa&#x26;theme=radical&#x26;hide_border=true" alt="Contribution Streak">

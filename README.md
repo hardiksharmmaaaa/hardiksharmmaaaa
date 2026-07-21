@@ -1,4 +1,4 @@
-# Hey there, I'm Hardik Sharma 🚀💻 `hardiksharmmaaaa` 
+# Hey there, I'm `hardiksharmmaaaa`🚀💻  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hardiksharmmaaaa&color=0e75b6&style=for-the-badge&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/hardiksharmmaaaa?color=green&style=for-the-badge)

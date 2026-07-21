@@ -4,6 +4,14 @@
 ![GitHub Followers](https://img.shields.io/github/followers/hardiksharmmaaaa?color=green&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/hardiksharmmaaaa?color=yellow&style=for-the-badge)
 
+### 🐍 Snake Eating My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardiksharmmaaaa/hardiksharmmaaaa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardiksharmmaaaa/hardiksharmmaaaa/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/hardiksharmmaaaa/hardiksharmmaaaa/output/github-contribution-grid-snake.svg" />
+</picture>
+
 **Just maxing out the tokens with midnight coffee and vibin'** ☕🌙
 
 > *"I solemnly swear that I am up to no good (mostly just training models)."* 🪄
@@ -43,15 +51,6 @@ mcp-servers	JS (fork)	Model Context Protocol experiments
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksharmmaaaa&#x26;layout=compact&#x26;theme=radical&#x26;hide_border=true">
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardiksharmmaaaa&#x26;theme=radical&#x26;hide_border=true" alt="Contribution Streak">
-
-
-### 🐍 Snake Eating My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardiksharmmaaaa/hardiksharmmaaaa/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardiksharmmaaaa/hardiksharmmaaaa/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/hardiksharmmaaaa/hardiksharmmaaaa/output/github-contribution-grid-snake.svg" />
-</picture>
 
 
 📫 Let's Connect & Collab

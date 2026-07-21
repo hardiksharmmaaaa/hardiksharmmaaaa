@@ -1,32 +1,38 @@
-name: Generate Snake Contribution
+# GitHub Action for generating a contribution snake (updates instantly on push)
+
+name: Generate Snake
 
 on:
-  # Run every day at midnight
-  schedule:
-    - cron: "0 0 * * *"
+  # Trigger on every push to main branch
+  push:
+    branches: [ main, master ]
   
-  # Allow manual trigger
+  # Also allow manual trigger from Actions tab
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Generate Snake
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: hardiksharmmaaaa
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to Repository
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

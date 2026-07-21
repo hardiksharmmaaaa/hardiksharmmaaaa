@@ -41,10 +41,7 @@ GuruGPT	JavaScript	Your personal AI guru
 Maya.ai	Voice AI	Hinglish voice magic
 mcp-servers	JS (fork)	Model Context Protocol experiments
 
-📊 Live GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=hardiksharmmaaaa&#x26;show_icons=true&#x26;theme=radical&#x26;hide_border=true&#x26;count_private=true" alt="Hardik&#x27;s GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksharmmaaaa&#x26;layout=compact&#x26;theme=radical&#x26;hide_border=true" alt="Top Languages">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardiksharmmaaaa&#x26;theme=radical&#x26;hide_border=true" alt="Streak">
 

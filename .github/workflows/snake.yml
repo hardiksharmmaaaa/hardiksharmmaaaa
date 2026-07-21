@@ -1,18 +1,32 @@
-name: Generate Snake
+name: Generate Snake Contribution
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  # Run every day at midnight
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allow manual trigger
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: hardiksharmmaaaa
-          output: github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v4
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake to Repository
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          name: snake
-          path: github-contribution-grid-snake.svg
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

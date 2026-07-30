@@ -5,7 +5,7 @@ name: Generate Snake
 on:
   # Trigger on every push to main branch
   push:
-    branches: [ main, master,prod ]
+    branches: [ main, master,prod, android, dashboard, gradio ]
   
   # Also allow manual trigger from Actions tab
   workflow_dispatch:
